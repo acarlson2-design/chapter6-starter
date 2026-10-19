@@ -16,7 +16,13 @@ main { padding: 20px; }
     
 }
 .card.second {
+
     border: 2px double; color: #164b82;
     box-shadow: 5px 5px 5px rgba(8, 29, 49, .50)
+}
+
+.card.second h2 {
+
+    color: rgba(8, 29, 49, .72);
 }
 footer { padding: 18px 24px; background: #164b82; color: white; }
